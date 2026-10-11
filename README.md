@@ -19,3 +19,5 @@ I'm a Software Engineer mostly working with JavaScript and TypeScript.
 [Groq Go SDK](https://github.com/akadotsh/groq-go-sdk) - A Go client for the Groq API.
 
 [JioSaavn API](https://github.com/akadotsh/go-jiosaavn-api) - A REST API for JioSaavn.
+
+[Lexical AI Plugin](https://github.com/akadotsh/lexical-ai-plugin) - An AI assistant plugin for the Lexical editor.
