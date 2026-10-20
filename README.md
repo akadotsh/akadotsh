@@ -4,6 +4,8 @@ I'm a Software Engineer mostly working with JavaScript and TypeScript.
 
 ## Currently building
 
+[YouTube Music Remote](https://github.com/akadotsh/youtube-music-remote) - Control YouTube Music on your Mac from your phone, with song search, playback and volume controls.
+
 [React Native PDF Reusables](https://github.com/akadotsh/react-native-pdf-reusables) - Reusable PDF components for React Native.
 
 ## Recent projects
